@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631355527932",
+    "project_id": "shifaa-909e5",
+    "storage_bucket": "shifaa-909e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631355527932:android:607e9ec28f958394d3fd79",
+        "android_client_info": {
+          "package_name": "com.example.shifaa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631355527932-g19fhoos4o4c403oona0m8qnr1eep5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFBA6rp13gLlMMfR-l85V4gtLA7KnWms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631355527932-g19fhoos4o4c403oona0m8qnr1eep5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
